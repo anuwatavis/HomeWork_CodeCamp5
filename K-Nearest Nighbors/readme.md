@@ -1,1 +1,1 @@
-CODECAMP_5 นาย อนุวัตร สุขทอง KNN-QUIZ
+CODECAMP_5 นายอนุวัตร สุขทอง KNN-QUIZ
